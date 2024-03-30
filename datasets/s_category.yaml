@@ -1,0 +1,10 @@
+path: ./
+train: train/ 
+val: val/ 
+names:
+  0: Tops
+  1: Bottoms
+  2: Dresses
+  3: Outerwear
+  4: Accessories
+  5: Shoes
